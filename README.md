@@ -63,15 +63,5 @@ Ensure correct permissions to run tcpdump and Mininet commands.
 
 ---
 
-This `README.md` explains:
 
-1. **Project purpose**  
-2. **Topology diagram**  
-3. **VM setup**  
-4. **Folder structure**  
-5. **How to use capture scripts**  
-6. **Safety notes**  
-
-
----
 
